@@ -5,7 +5,7 @@ Se pueden agregar, eliminar o buscar los movimientos de un pokemon determinado s
 
 ---
 
-## Tecnologías utilizadas
+## 🛠 Tecnologías utilizadas
 
 - Python
 - FastAPI
@@ -14,7 +14,7 @@ Se pueden agregar, eliminar o buscar los movimientos de un pokemon determinado s
 
 ---
 
-## Instalación
+## ⚙️ Instalación
 
 
 ```bash
