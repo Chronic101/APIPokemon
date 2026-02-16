@@ -38,6 +38,7 @@ uvicorn app.main:app --reload
 http://localhost:8000
 http://localhost:8000/docs
 ```
+<img width="1895" height="483" alt="Screenshot 2026-02-16 153804" src="https://github.com/user-attachments/assets/cfd8ec86-7dcf-46b0-9bb6-4abcd04eef0c" />
 
 
 
