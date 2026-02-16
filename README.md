@@ -16,7 +16,6 @@ Se pueden agregar, eliminar o buscar los movimientos de un pokemon determinado s
 
 ## Instalación
 
-1. Clonar el repositorio:
 
 ```bash
 git clone https://github.com/Chronic101/APIPokemon.git
